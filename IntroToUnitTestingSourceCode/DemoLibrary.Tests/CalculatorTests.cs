@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 using DemoLibrary;
 using Xunit; 
 
-namespace DemoLibrary.Tests
+namespace DemoLibrary.Tests 
 {
     public class CalculatorTests
     {
